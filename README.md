@@ -15,7 +15,7 @@ Develop a machine learning model to diagnose COVID-19 using time series data.
 
 🧪 Experiments
 * Tested on datasets like NATOPS, LSST, and Cricket.
-* Achieved up to 100% accuracy in some cases.
+* Achieved up to 98% accuracy in some cases.
 * Analyzed the effect of atemporal features (e.g., cough, fever) on performance.
 
 📊 Results
